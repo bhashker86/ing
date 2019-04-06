@@ -1,2 +1,0 @@
-# mockdevhack
-for dev demo
